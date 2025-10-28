@@ -131,5 +131,3 @@ Cuando no estoy codeando me gusta analizar funnels y desarmar productos para ent
 - Practico entrenamiento funcional: pesas rusas, calistenia, esprints y trabajo de alta intensidad.
 
 > “No pienso solo en cómo construirlo, sino en cómo hacerlo escalar.” — Héctor Labra
-
-Si quieres que haga una versión bilingüe o incluya más proyectos/screencasts, dime y lo agrego.
